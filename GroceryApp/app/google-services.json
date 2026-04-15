@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165200927875",
+    "project_id": "syncart-6854b",
+    "storage_bucket": "syncart-6854b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165200927875:android:938671af82682e3eddcfb6",
+        "android_client_info": {
+          "package_name": "com.example.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165200927875-p6teibffel45b8heuvebkjv2ob8qbol2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAVSgJw5t5CXTpT19rp2mp2td_LvwU88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165200927875-p6teibffel45b8heuvebkjv2ob8qbol2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

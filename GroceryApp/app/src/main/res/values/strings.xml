@@ -1,0 +1,156 @@
+<resources>
+    <!-- App-wide -->
+    <string name="app_name">SynCart</string>
+    <string name="back">Back</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="item_count">%d items</string>
+    <string name="items">items</string>
+
+    <!-- Welcome / Login -->
+    <string name="get_started">Get Started</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log In</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="tagline_header">Your Smart Shopping Companion</string>
+    <string name="tagline_body">Effortlessly manage your grocery lists and discover great deals.</string>
+
+    <!-- Home Page -->
+    <string name="good_morning">Good morning, %1$s!</string>
+    <string name="my_lists">My Lists</string>
+    <string name="view_all">View All</string>
+    <string name="no_lists_yet">No lists yet. Tap \'+\' to create one!</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="featured_offer">Featured Offer</string>
+    <string name="special_offer">Special Offer</string>
+    <string name="special_offer_details">20% off all Fresh Produce!</string>
+    <string name="shop_now">Shop Now</string>
+
+    <!-- Lists -->
+    <string name="lists">Lists</string>
+    <string name="add_new_list">Add new list</string>
+    <string name="new_list">New List</string>
+    <string name="create_list">Create List</string>
+    <string name="list_name">List Name</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="list_details">List Details</string>
+    <string name="list_not_found">List not found or still loading...</string>
+
+    <!-- String Array for Categories -->
+    <string-array name="categories">
+        <item>Produce</item>
+        <item>Dairy</item>
+        <item>Meat &amp; Seafood</item>
+        <item>Bakery</item>
+    </string-array>
+
+
+    <!-- Search -->
+    <string name="search">Search</string>
+    <string name="search_for_items">Search for items</string>
+    <string name="category">Category</string>
+    <string name="store">Store</string>
+    <string name="price">Price</string>
+    <string name="no_results_found">No results found for \'%1$s\'</string>
+
+    <!-- Alerts -->
+    <string name="alerts">Alerts</string>
+    <string name="notification_preferences">Notification Preferences</string>
+    <string name="price_drop_alerts">Price Drop Alerts</string>
+    <string name="price_drop_description">Get notified for discounts.</string>
+    <string name="stock_alerts">Back-in-Stock Alerts</string>
+    <string name="stock_alerts_description">Know when items are available.</string>
+    <string name="promo_offers">Promotional Offers</string>
+    <string name="promo_offers_description">Stay updated on special deals.</string>
+
+    <!-- Favourites -->
+    <string name="favourites">Favourites</string>
+
+    <!-- Insights -->
+    <string name="insights">Insights</string>
+    <string name="monthly_spending">Monthly Spending</string>
+    <string name="budget_management">Budget Management</string>
+    <string name="edit">Edit</string>
+    <string name="savings_tips">Savings &amp; Tips</string>
+
+    <!-- Store Details -->
+    <string name="store_details">Store Details</string>
+    <string name="store_information">Store Information</string>
+    <string name="current_promotions">Current Promotions</string>
+    <string name="shopping_list_items">Shopping List Items</string>
+    <string name="opening">Opening</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+
+    <!-- Default Data Names -->
+    <string name="list_weekly_shopping">Weekly Shopping</string>
+    <string name="list_party_supplies">Party Supplies</string>
+    <string name="list_weekend_bbq">Weekend BBQ</string>
+
+    <string name="item_organic_milk">Organic Whole Milk</string>
+    <string name="item_lactose_free_milk">Lactose-Free Milk</string>
+    <string name="item_almond_milk">Almond Milk</string>
+    <string name="item_organic_bananas">Organic Bananas</string>
+    <string name="item_cheese">Cheese</string>
+    <string name="item_chicken_breast">Chicken Breast</string>
+    <string name="item_coffee_beans">Coffee Beans</string>
+    <string name="item_eggs">Eggs</string>
+    <string name="item_olive_oil">Olive Oil</string>
+    <string name="item_salmon_fillets">Salmon Fillets</string>
+    <string name="item_spinach">Spinach</string>
+    <string name="item_organic_strawberries">Organic Strawberries</string>
+    <string name="item_tomato">Tomato</string>
+    <string name="item_avocado">Avocado</string>
+    <string name="item_gluten_free_bread">Gluten-Free Bread</string>
+
+    <string name="alert_price_drop_1">Price dropped to R29.99!</string>
+    <string name="alert_back_in_stock">Back in stock</string>
+    <string name="alert_special_2for1">Special: 2 for 1</string>
+
+    <!-- Settings -->
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="account">Account</string>
+    <string name="app_preferences">App Preferences</string>
+    <string name="notifications">Notifications</string>
+    <string name="legal">Legal</string>
+    <string name="offline">Offline</string>
+    <string name="security">Security</string>
+    <string name="manage_profile_info">Manage your profile information</string>
+    <string name="payment_and_loyalty">Payment &amp; Loyalty Cards</string>
+    <string name="manage_payment_methods">Manage your payment methods and loyalty cards</string>
+    <string name="manage_offline_func">Manage offline functionalities</string>
+    <string name="manage_app_security">Manage app security, such as biometric lock</string>
+    <string name="notification_settings_title">Notification Settings</string>
+    <string name="manage_notifications">Manage your notification settings</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="offline_settings">Offline Settings</string>
+    <string name="offline_access">Offline Access</string>
+    <string name="offline_description">Manage your lists and view previously accessed product information even without an internet connection. Changes will automatically sync when you\'re back online.</string>
+    <string name="data_management">DATA MANAGEMENT</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="orders">Orders</string>
+    <string name="order_history">Order History</string>
+    <string name="receipts">Receipts</string>
+
+    <string name="manage_linked_devices">Manage Linked Devices</string>
+    <string name="pin_password">PIN/Password</string>
+    <string name="change_pin_password">Change PIN/Password</string>
+
+    <!-- Bottom Nav -->
+    <string name="bottom_nav_lists">Lists</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_alerts">Alerts</string>
+    <string name="bottom_nav_profile">Profile</string>
+
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+
+</resources>

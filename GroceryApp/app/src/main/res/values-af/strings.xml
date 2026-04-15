@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wyd -->
+    <string name="app_name">SynCart</string>
+    <string name="back">Terug</string>
+    <string name="add_to_list">Voeg by Lys</string>
+    <string name="item_count">%d items</string>
+    <string name="items">items</string>
+
+    <!-- Welkom / Teken In -->
+    <string name="get_started">Begin</string>
+    <string name="welcome_back">Welkom terug</string>
+    <string name="email">E-pos</string>
+    <string name="password">Wagwoord</string>
+    <string name="forgot_password">Wagwoord vergeet?</string>
+    <string name="log_in">Teken In</string>
+    <string name="or_continue_with">Of gaan voort met</string>
+    <string name="sign_in_with_google">Teken in met Google</string>
+    <string name="no_account">Het jy nie \'n rekening nie?</string>
+    <string name="sign_up">Teken aan</string>
+    <string name="tagline_header">Jou Slim Inkopie Metgesel</string>
+    <string name="tagline_body">Bestuur moeiteloos jou inkopielyste en ontdek wonderlike aanbiedings.</string>
+
+    <!-- Tuisblad -->
+    <string name="good_morning">Goeie môre, %1$s!</string>
+    <string name="my_lists">My Lyste</string>
+    <string name="view_all">Sien Alles</string>
+    <string name="no_lists_yet">Nog geen lyste nie. Tik \'+\' om een te skep!</string>
+    <string name="recent_alerts">Onlangse Kennisgewings</string>
+    <string name="featured_offer">Spesiale Aanbod</string>
+    <string name="special_offer">Spesiale Aanbod</string>
+    <string name="special_offer_details">20% af op alle Vars Produkte!</string>
+    <string name="shop_now">Koop Nou</string>
+
+    <!-- Lyste -->
+    <string name="lists">Lyste</string>
+    <string name="add_new_list">Voeg nuwe lys by</string>
+    <string name="new_list">Nuwe Lys</string>
+    <string name="create_list">Skep Lys</string>
+    <string name="list_name">Lys Naam</string>
+    <string name="add_image">Voeg Foto By</string>
+    <string name="add_new_item">Voeg nuwe item by</string>
+    <string name="list_details">Lysbesonderhede</string>
+    <string name="list_not_found">Lys nie gevind nie of laai nog...</string>
+
+    <!-- String Array for Categories -->
+    <string-array name="categories">
+        <item>Vrugte &amp; Groente</item>
+        <item>Suiwel</item>
+        <item>Vleis &amp; Seekos</item>
+        <item>Bakkery</item>
+    </string-array>
+
+    <!-- Soek -->
+    <string name="search">Soek</string>
+    <string name="search_for_items">Soek vir items</string>
+    <string name="category">Kategorie</string>
+    <string name="store">Winkel</string>
+    <string name="price">Prys</string>
+    <string name="no_results_found">Geen resultate gevind vir \'%1$s\'</string>
+
+    <!-- Kennisgewings -->
+    <string name="alerts">Kennisgewings</string>
+    <string name="notification_preferences">Kennisgewingvoorkeure</string>
+    <string name="price_drop_alerts">Prysverlagings</string>
+    <string name="price_drop_description">Kry kennisgewings vir afslag.</string>
+    <string name="stock_alerts">Weer-in-Voorraad</string>
+    <string name="stock_alerts_description">Weet wanneer items beskikbaar is.</string>
+    <string name="promo_offers">Promosie-aanbiedinge</string>
+    <string name="promo_offers_description">Bly op hoogte van spesiale aanbiedinge.</string>
+
+    <!-- Gunstelinge -->
+    <string name="favourites">Gunstelinge</string>
+
+    <!-- Insigte -->
+    <string name="insights">Insigte</string>
+    <string name="monthly_spending">Maandelikse Besteding</string>
+    <string name="budget_management">Begrotingsbestuur</string>
+    <string name="edit">Wysig</string>
+    <string name="savings_tips">Besparings &amp; Wenke</string>
+
+    <!-- Winkelbesonderhede -->
+    <string name="store_details">Winkelbesonderhede</string>
+    <string name="store_information">Winkelinligting</string>
+    <string name="current_promotions">Huidige Promosies</string>
+    <string name="shopping_list_items">Inkopielys Items</string>
+    <string name="opening">Ure</string>
+    <string name="phone">Foon</string>
+    <string name="address">Adres</string>
+
+    <!-- Standaard Data Name -->
+    <string name="list_weekly_shopping">Weeklikse Inkopies</string>
+    <string name="list_party_supplies">Partytjie Benodigdhede</string>
+    <string name="list_weekend_bbq">Naweek Braai</string>
+
+    <string name="item_organic_milk">Organiese Volmelk</string>
+    <string name="item_lactose_free_milk">Laktosevrye Melk</string>
+    <string name="item_almond_milk">Amandelmelk</string>
+    <string name="item_organic_bananas">Organiese Bananas</string>
+    <string name="item_cheese">Kaas</string>
+    <string name="item_chicken_breast">Hoenderborsie</string>
+    <string name="item_coffee_beans">Koffiebone</string>
+    <string name="item_eggs">Eiers</string>
+    <string name="item_olive_oil">Olyfolie</string>
+    <string name="item_salmon_fillets">Salmfilette</string>
+    <string name="item_spinach">Spinasie</string>
+    <string name="item_organic_strawberries">Organiese Aarbeie</string>
+    <string name="item_tomato">Tamatie</string>
+    <string name="item_avocado">Avokado</string>
+    <string name="item_gluten_free_bread">Glutenvrye Brood</string>
+
+    <string name="alert_price_drop_1">Prys gedaal na R29.99!</string>
+    <string name="alert_back_in_stock">Weer in voorraad</string>
+    <string name="alert_special_2for1">Spesiaal: 2 vir 1</string>
+
+    <!-- Instellings -->
+    <string name="profile">Profiel</string>
+    <string name="settings">Instellings</string>
+    <string name="language">Taal</string>
+    <string name="account">Rekening</string>
+    <string name="app_preferences">App Voorkeure</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="legal">Wetlik</string>
+    <string name="offline">Vanlyn</string>
+    <string name="security">Sekuriteit</string>
+    <string name="manage_profile_info">Bestuur jou profielinligting</string>
+    <string name="payment_and_loyalty">Betaling &amp; Lojaliteitskaarte</string>
+    <string name="manage_payment_methods">Bestuur jou betaalmetodes en lojaliteitskaarte</string>
+    <string name="manage_offline_func">Bestuur vanlyn funksionaliteit</string>
+    <string name="manage_app_security">Bestuur app-sekuriteit, soos biometriese slot</string>
+    <string name="notification_settings_title">Kennisgewinginstellings</string>
+    <string name="manage_notifications">Bestuur jou kennisgewinginstellings</string>
+    <string name="terms_of_service">Diensbepalings</string>
+    <string name="privacy_policy">Privaatheidsbeleid</string>
+    <string name="offline_settings">Vanlyn Instellings</string>
+    <string name="offline_access">Vanlyn Toegang</string>
+    <string name="offline_description">Bestuur jou lyste en bekyk voorheen oopgemaakte produkinligting selfs sonder \'n internetverbinding. Veranderinge sal outomaties sinkroniseer wanneer jy weer aanlyn is.</string>
+    <string name="data_management">DATABESTUUR</string>
+    <string name="personal_information">Persoonlike Inligting</string>
+    <string name="orders">Bestellings</string>
+    <string name="order_history">Bestellingsgeskiedenis</string>
+    <string name="receipts">Kwitansies</string>
+
+    <string name="manage_linked_devices">Bestuur Gekoppelde Toestelle</string>
+    <string name="pin_password">PIN/Wagwoord</string>
+    <string name="change_pin_password">Verander PIN/Wagwoord</string>
+
+    <!-- Bottom Nav -->
+    <string name="bottom_nav_lists">Lyste</string>
+    <string name="bottom_nav_search">Soek</string>
+    <string name="bottom_nav_alerts">Kennisgewings</string>
+    <string name="bottom_nav_profile">Profiel</string>
+</resources>
